@@ -1,32 +1,8 @@
-# Portafolio Personal (CV) en React
+# Portafolio Personal - Dastin Chávez
 
-Este proyecto es un portafolio personal desarrollado en React con Material UI. Incluye:
-- Datos personales (con fotografía)
-- Habilidades (blandas y profesionales)
-- Proyectos académicos o profesionales
-- Lenguajes de programación preferidos
-- Experiencia profesional
+## Descripción del proceso y experiencia usando IA
 
-## Scripts
+Durante el desarrollo de este portafolio personal, utilicé herramientas de Inteligencia Artificial como GitHub Copilot para acelerar y mejorar la calidad del código. La IA me ayudó a generar componentes en React, implementar Material UI y crear pruebas unitarias de manera eficiente.
 
-- `npm install` — Instala las dependencias
-- `npm run dev` — Inicia el servidor de desarrollo
+El proceso fue mucho más ágil, ya que Copilot sugería fragmentos de código, buenas prácticas y soluciones a problemas comunes. Además, pude adaptar los tests y la estructura del proyecto siguiendo recomendaciones automáticas, lo que me permitió enfocarme en el diseño y la funcionalidad.
 
-## Personaliza tu información en los componentes de la carpeta `src/`.
-
----
-
-# Información original del template Vite
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

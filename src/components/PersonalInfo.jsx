@@ -22,6 +22,9 @@ export default function PersonalInfo() {
             <Typography color="text.secondary">
               Quito, Ecuador
             </Typography>
+            <Typography color="text.secondary" data-testid="telefono">
+              0999999999
+            </Typography>
           </Grid>
         </Grid>
       </CardContent>

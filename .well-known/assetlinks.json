@@ -1,0 +1,13 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.pagoplux.plux",
+        "sha256_cert_fingerprints": [
+          "18:24:5E:C6:6F:23:1D:4E:0F:46:30:CD:80:F0:67:D7:00:85:5A:F5:87:92:E2:57:08:30:E1:3E:FF:C4:90:12"
+        ]
+      }
+    }
+  ]
+  
